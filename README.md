@@ -1,0 +1,1 @@
+This app developed using react and redux, Course in video youtube espanish language
